@@ -8,7 +8,8 @@ Aplikasi ini adalah sebuah aplikasi CRUD Sederhana berbasis Single Page Applicat
 
 ![DFD](public/image/dfd.png)
 
-![File PDF - DFD](public/document/DFD Sederhana Penjualan Pakaian.pdf)
+Anda dapat melihat Diagram Alir Data (DFD) dengan mengunduh file PDF berikut:  
+[File PDF - DFD](public/document/DFD%20Sederhana%20Penjualan%20Pakaian.pdf)
 
 ### Penjelasan DFD
 
