@@ -8,6 +8,8 @@ Aplikasi ini adalah sebuah aplikasi CRUD Sederhana berbasis Single Page Applicat
 
 ![DFD](public/image/dfd.png)
 
+![File PDF - DFD](public/document/DFD Sederhana Penjualan Pakaian.pdf)
+
 ### Penjelasan DFD
 
 - **Pelanggan** mengirimkan pesanan ke **Proses 2: Pemesanan Barang**.
