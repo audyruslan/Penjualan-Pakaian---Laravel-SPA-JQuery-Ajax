@@ -19,16 +19,19 @@ Diagram ini mencakup entitas dan aliran data utama dalam proses penjualan barang
 
 ## Screenshot Aplikasi
 
-### Gambar 1: Tambah Data
+### Gambar 1: Home Data
 ![Tambah Data](path/to/tambah_data.png)
 
-### Gambar 2: Ubah Data
+### Gambar 2: Tambah Data
 ![Ubah Data](path/to/ubah_data.png)
 
-### Gambar 3: Lihat Data
+### Gambar 3: Ubah Data
 ![Lihat Data](path/to/lihat_data.png)
 
-### Gambar 4: Hapus Data
+### Gambar 4: Lihat Data
+![Hapus Data](path/to/hapus_data.png)
+
+### Gambar 5: Hapus Data
 ![Hapus Data](path/to/hapus_data.png)
 
 ## Proses Instalasi
