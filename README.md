@@ -1,12 +1,12 @@
 # Aplikasi CRUD Penjualan Pakaian - SPA JQuery Ajax
 
-Aplikasi ini adalah sebuah aplikasi berbasis Single Page Application (SPA) yang dibangun menggunakan JQuery dan Ajax untuk melakukan operasi CRUD (Create, Read, Update, Delete) pada data penjualan pakaian. Aplikasi ini dirancang untuk memudahkan pelanggan dalam melakukan pemesanan dan pembayaran, serta memudahkan admin/kasir dalam mengelola transaksi dan melihat laporan penjualan.
+Aplikasi ini adalah sebuah aplikasi CRUD Sederhana berbasis Single Page Application (SPA) yang dibangun menggunakan JQuery dan Ajax untuk melakukan operasi CRUD (Create, Read, Update, Delete) pada data penjualan pakaian.
 
 ## Diagram Alir Data (DFD)
 
 ### Gambar 1: Diagram Alir Data (DFD)
 
-![DFD](path/to/dfd_image.png)
+![DFD](public/image/dfd.png)
 
 ### Penjelasan DFD
 
@@ -20,26 +20,26 @@ Diagram ini mencakup entitas dan aliran data utama dalam proses penjualan barang
 ## Screenshot Aplikasi
 
 ### Gambar 1: Home Data
-![Tambah Data](path/to/tambah_data.png)
+![Tambah Data](public/image/home.png)
 
 ### Gambar 2: Tambah Data
-![Ubah Data](path/to/ubah_data.png)
+![Ubah Data](public/image/add.png)
 
 ### Gambar 3: Ubah Data
-![Lihat Data](path/to/lihat_data.png)
+![Lihat Data](public/image/edit.png)
 
 ### Gambar 4: Lihat Data
-![Hapus Data](path/to/hapus_data.png)
+![Hapus Data](public/image/read.png)
 
 ### Gambar 5: Hapus Data
-![Hapus Data](path/to/hapus_data.png)
+![Hapus Data](public/image/delete.png)
 
 ## Proses Instalasi
 
 1. **Download Project atau Cloning**
    - Anda dapat mendownload project ini langsung atau melakukan cloning menggunakan perintah berikut:
      ```bash
-     git clone https://github.com/username/repository-name.git
+     git clone https://github.com/audyruslan/Penjualan-Pakaian---Laravel-SPA-JQuery-Ajax.git
      ```
 
 2. **Composer Install**
@@ -60,11 +60,3 @@ Diagram ini mencakup entitas dan aliran data utama dalam proses penjualan barang
      ```bash
      php artisan serve
      ```
-
-## Kontribusi
-
-Jika Anda ingin berkontribusi pada project ini, silakan fork repository ini dan buat pull request dengan perubahan yang Anda usulkan.
-
-## Lisensi
-
-Project ini dilisensikan di bawah [MIT License](LICENSE).
